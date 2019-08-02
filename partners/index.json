@@ -540,16 +540,6 @@
   {
     "type":"game",
     "children":[
-            {
-        "gaTag":"prospectors",
-        "link":"https://prospectors.io?ref=supereospark",
-        "logo":"prospectors.png",
-        "title":"Prospectors",
-        "description":"Massive Multiplayer Online Real-Time Economic Strategy Game, MINE GOLD - BUILD YOUR WORLD",
-        "zh-Hans-CN":{
-          "description":"大型多人实时在线经济战略游戏,淘金建立你的世界"
-        }
-      },
       {
         "gaTag":"btmore",
         "link":"https://www.btmore.com/?channel=eospark",
